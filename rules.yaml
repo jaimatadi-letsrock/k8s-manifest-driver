@@ -1,0 +1,4 @@
+play:
+  only:
+    day:
+      time: 2
